@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="377bd5e8-8f74-48e0-af02-7b5cac7c8a4a" name="Default" comment="" />
+    <list default="true" id="377bd5e8-8f74-48e0-af02-7b5cac7c8a4a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12.5.SharedObject/sharedObject.js" afterPath="$PROJECT_DIR$/12.5.SharedObject/sharedObject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12.5.SharedObject/sharedObject.test.js" afterPath="$PROJECT_DIR$/12.5.SharedObject/sharedObject.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12.ErrorHandling-Exercise/1.RequestValidator.js" afterPath="$PROJECT_DIR$/12.ErrorHandling-Exercise/1.RequestValidator.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,50 +21,33 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mathEnforcer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.4.MatEnforcer/mathEnforcer.js">
+      <file leaf-file-name="armagedom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12.6.ArmageDOM/armagedom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="198">
+              <caret line="59" column="1" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="59" selection-end-column="3" />
               <folding>
                 <element signature="e#0#43#0" expanded="false" />
+                <element signature="e#316#1725#0" expanded="false" />
+                <element signature="e#806#983#0" expanded="false" />
+                <element signature="e#1231#1443#0" expanded="false" />
+                <element signature="e#1510#1722#0" expanded="false" />
+                <marker date="1499958272390" expanded="true" signature="403:715" ph="..." />
+                <marker date="1499958272390" expanded="true" signature="425:707" ph="..." />
+                <marker date="1499958272390" expanded="true" signature="457:501" ph="..." />
+                <marker date="1499958272390" expanded="true" signature="526:562" ph="..." />
+                <marker date="1499958272390" expanded="true" signature="587:700" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mathEnforcer.test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.4.MatEnforcer/mathEnforcer.test.js">
+      <file leaf-file-name="1.RequestValidator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12.ErrorHandling-Exercise/1.RequestValidator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#43#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sharedObject.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.5.SharedObject/sharedObject.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#43#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sharedObject.test.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12.5.SharedObject/sharedObject.test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#43#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="256">
+              <caret line="19" column="69" lean-forward="true" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,12 +72,11 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JavaScript-Advanced-Homework" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/7.AdvancedFunction/1.Aggregate.js" />
         <option value="$PROJECT_DIR$/7.AdvancedFunction/2.CurrencyFotmat.js" />
         <option value="$PROJECT_DIR$/7.AdvancedFunction/3.CommandProcessor.js" />
         <option value="$PROJECT_DIR$/7.AdvancedFunction/4.MaxElement.js" />
@@ -129,7 +117,6 @@
         <option value="$PROJECT_DIR$/RGB-to-Hex-Unit-Test/rgb-to-hex.test.js" />
         <option value="$PROJECT_DIR$/Add-Subtract Test/sumator.js" />
         <option value="$PROJECT_DIR$/Add-Subtract Test/sumator.test.js" />
-        <option value="$PROJECT_DIR$/12.ErrorHandling-Exercise/1.RequestValidator.js" />
         <option value="$PROJECT_DIR$/12.ErrorHandling-Exercise/2.EvenOrOdd.js" />
         <option value="$PROJECT_DIR$/12.2.EvenToOdd-Unit Test/isOdd.js" />
         <option value="$PROJECT_DIR$/12.2.EvenToOdd-Unit Test/isOdd.test.js" />
@@ -139,6 +126,8 @@
         <option value="$PROJECT_DIR$/12.4.MatEnforcer/mathEnforcer.test.js" />
         <option value="$PROJECT_DIR$/12.5.SharedObject/sharedObject.js" />
         <option value="$PROJECT_DIR$/12.5.SharedObject/sharedObject.test.js" />
+        <option value="$PROJECT_DIR$/12.6.ArmageDOM/armagedom.js" />
+        <option value="$PROJECT_DIR$/12.ErrorHandling-Exercise/1.RequestValidator.js" />
       </list>
     </option>
   </component>
@@ -173,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -188,11 +178,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="node.js.path.for.package.jscs" value="project" />
@@ -209,20 +198,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="C:\Users\1234\AppData\Roaming\npm\node_modules\mocha" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/12.6.ArmageDOM" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\9.ObjectComposition-Lab" />
-      <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\7.AdvancedFunction" />
-      <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\6.jQuery,DOM,Events" />
-      <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\05.jQuery" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance" />
       <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\11.UnitTest\symetry" />
       <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\test" />
       <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\11.UnitTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JS Core\JS Advance\Homework-JSAdvance\12.5.SharedObject" />
+      <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\9.ObjectComposition-Lab" />
+      <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\7.AdvancedFunction" />
+      <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\6.jQuery,DOM,Events" />
+      <recent name="C:\Users\1234\Desktop\JS Advance\Homework-JSAdvance\05.jQuery" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -237,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.SharedObjectTest">
+  <component name="RunManager" selected="Node.js.1.RequestValidator.js">
     <configuration default="false" name="3.DeckOfCards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/11.UnitTesting/3.DeckOfCards.js" working-dir="$PROJECT_DIR$/11.UnitTesting">
       <method />
     </configuration>
@@ -423,7 +414,33 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="13">
+    <configuration default="false" name="SharedObject Test2" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/12.5.SharedObject</test-directory>
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Armagedon Test" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/12.6.ArmageDOM</test-directory>
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="15">
       <item index="0" class="java.lang.String" itemvalue="Mocha.Test Unit" />
       <item index="1" class="java.lang.String" itemvalue="Mocha.Symetry Test" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.RGB Test" />
@@ -432,16 +449,18 @@
       <item index="5" class="java.lang.String" itemvalue="Mocha.Unnamed (2)" />
       <item index="6" class="java.lang.String" itemvalue="Mocha.mathEnforcer" />
       <item index="7" class="java.lang.String" itemvalue="Mocha.SharedObjectTest" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.3.DeckOfCards.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="10" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-      <item index="11" class="java.lang.String" itemvalue="Node.js.1.RequestValidator.js" />
-      <item index="12" class="java.lang.String" itemvalue="Node.js.lookupChar.js" />
+      <item index="8" class="java.lang.String" itemvalue="Mocha.SharedObject Test2" />
+      <item index="9" class="java.lang.String" itemvalue="Mocha.Armagedon Test" />
+      <item index="10" class="java.lang.String" itemvalue="Node.js.3.DeckOfCards.js" />
+      <item index="11" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="12" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="13" class="java.lang.String" itemvalue="Node.js.1.RequestValidator.js" />
+      <item index="14" class="java.lang.String" itemvalue="Node.js.lookupChar.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.lookupChar.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.1.RequestValidator.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.1.RequestValidator.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.lookupChar.js" />
         <item index="2" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
         <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
         <item index="4" class="java.lang.String" itemvalue="Node.js.3.DeckOfCards.js" />
@@ -466,54 +485,56 @@
       <workItem from="1499633231553" duration="28447000" />
       <workItem from="1499839635906" duration="21741000" />
       <workItem from="1499932152061" duration="817000" />
+      <workItem from="1499941007861" duration="3136000" />
+      <workItem from="1499945513144" duration="10509000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SharedObjectTest - 2017.07.12 at 19h 21m 37s.xml">
-      <configuration name="SharedObjectTest" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Armagedon_Test - 2017.07.13 at 17h 41m 24s.xml">
+      <configuration name="Armagedon Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObjectTest - 2017.07.12 at 19h 21m 47s.xml">
-      <configuration name="SharedObjectTest" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Armagedon_Test - 2017.07.13 at 17h 42m 36s.xml">
+      <configuration name="Armagedon Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObjectTest - 2017.07.12 at 19h 22m 29s.xml">
-      <configuration name="SharedObjectTest" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Armagedon_Test - 2017.07.13 at 17h 50m 09s.xml">
+      <configuration name="Armagedon Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObjectTest - 2017.07.12 at 19h 23m 55s.xml">
-      <configuration name="SharedObjectTest" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Armagedon_Test - 2017.07.13 at 17h 54m 42s.xml">
+      <configuration name="Armagedon Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObjectTest - 2017.07.12 at 19h 24m 35s.xml">
-      <configuration name="SharedObjectTest" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Armagedon_Test - 2017.07.13 at 17h 55m 00s.xml">
+      <configuration name="Armagedon Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObjectTest - 2017.07.12 at 19h 24m 58s.xml">
-      <configuration name="SharedObjectTest" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Armagedon_Test - 2017.07.13 at 17h 55m 19s.xml">
+      <configuration name="Armagedon Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObjectTest - 2017.07.12 at 19h 25m 45s.xml">
-      <configuration name="SharedObjectTest" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Armagedon_Test - 2017.07.13 at 18h 00m 26s.xml">
+      <configuration name="Armagedon Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObjectTest - 2017.07.12 at 19h 26m 23s.xml">
-      <configuration name="SharedObjectTest" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Armagedon_Test - 2017.07.13 at 18h 00m 39s.xml">
+      <configuration name="Armagedon Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObjectTest - 2017.07.12 at 19h 27m 03s.xml">
-      <configuration name="SharedObjectTest" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Armagedon_Test - 2017.07.13 at 18h 02m 41s.xml">
+      <configuration name="Armagedon Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="SharedObjectTest - 2017.07.12 at 19h 27m 33s.xml">
-      <configuration name="SharedObjectTest" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Armagedon_Test - 2017.07.13 at 18h 03m 57s.xml">
+      <configuration name="Armagedon Test" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141231000" />
+    <option name="totallyTimeSpent" value="154876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25074404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25018615" sideWeight="0.48965517" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2908497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25018615" sideWeight="0.5103448" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2903752" sideWeight="0.49702382" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34150326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34150326" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399287" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -568,20 +589,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6.jQuery,DOM,Events/1.IncrementCounter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.jQuery,DOM,Events/incrementCounter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.jQuery,DOM,Events/formValidation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -856,13 +863,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12.ErrorHandling-Exercise/2.EvenOrOdd.js" />
-    <entry file="file://$PROJECT_DIR$/12.ErrorHandling-Exercise/1.RequestValidator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="14" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12.2.EvenToOdd-Unit Test/isOdd.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -891,19 +891,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.4.MatEnforcer/mathEnforcer.js">
+    <entry file="file://$PROJECT_DIR$/12.5.SharedObject/jquery-3.2.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.5.SharedObject/sharedObject.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="79" column="16" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="188" selection-end-column="3" />
           <folding>
-            <element signature="e#0#43#0" expanded="false" />
+            <element signature="e#1246#1467#0" expanded="false" />
+            <element signature="e#1506#1858#0" expanded="false" />
+            <element signature="e#1896#2335#0" expanded="false" />
+            <element signature="e#2376#3269#0" expanded="false" />
+            <element signature="e#3310#4455#0" expanded="false" />
+            <element signature="e#4494#5073#0" expanded="false" />
+            <element signature="e#5114#6452#0" expanded="false" />
+            <marker date="1499950735863" expanded="true" signature="1042:1162" ph="..." />
+            <marker date="1499950735863" expanded="false" signature="1065:1154" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.5.SharedObject/sharedObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-492">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12.4.MatEnforcer/mathEnforcer.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
+        <state relative-caret-position="102">
           <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
           <folding>
             <element signature="e#0#43#0" expanded="false" />
@@ -911,25 +935,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.5.SharedObject/sharedObject.js">
+    <entry file="file://$PROJECT_DIR$/12.4.MatEnforcer/mathEnforcer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        <state relative-caret-position="278">
+          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding>
             <element signature="e#0#43#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.5.SharedObject/sharedObject.test.js">
+    <entry file="file://$PROJECT_DIR$/12.6.ArmageDOM/armagedom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="198">
+          <caret line="59" column="1" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="59" selection-end-column="3" />
           <folding>
             <element signature="e#0#43#0" expanded="false" />
+            <element signature="e#316#1725#0" expanded="false" />
+            <element signature="e#806#983#0" expanded="false" />
+            <element signature="e#1231#1443#0" expanded="false" />
+            <element signature="e#1510#1722#0" expanded="false" />
+            <marker date="1499958272390" expanded="true" signature="403:715" ph="..." />
+            <marker date="1499958272390" expanded="true" signature="425:707" ph="..." />
+            <marker date="1499958272390" expanded="true" signature="457:501" ph="..." />
+            <marker date="1499958272390" expanded="true" signature="526:562" ph="..." />
+            <marker date="1499958272390" expanded="true" signature="587:700" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/12.ErrorHandling-Exercise/1.RequestValidator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="19" column="69" lean-forward="true" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

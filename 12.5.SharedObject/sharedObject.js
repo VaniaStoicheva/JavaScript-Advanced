@@ -1,6 +1,7 @@
 /**
  * Created by 1234 on 12.7.2017 г..
  */
+
 let sharedObject = {
     name: null,
     income: null,
